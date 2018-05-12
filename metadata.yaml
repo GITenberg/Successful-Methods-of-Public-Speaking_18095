@@ -1,0 +1,33 @@
+_repo: Successful-Methods-of-Public-Speaking_18095
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: You can acquire valuable knowledge for use in your own public speaking
+  by studying the successful methods of other men. This does not mean, however, that
+  you are to imitate others, but simply to profit by their experience and suggestions
+  in so far as they fit in naturally with your personality. All successful speakers
+  do not speak alike. Each man has found certain things to be effective in his particular
+  case, but which would not necessarily be suited to a different type of speaker.
+  When, therefore, you read the following methods of various men, ask yourself in
+  each case whether you can apply.
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Oratory'
+title: Successful Methods of Public Speaking
+url: http://www.gutenberg.org/ebooks/18095
